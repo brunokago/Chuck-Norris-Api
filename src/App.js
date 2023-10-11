@@ -69,7 +69,7 @@ function App() {
         <Typography variant='h1' align='center'>
           Chuck Norris jokes
         </Typography>
-          <Typography variant='h5' align='center'>
+          <Typography variant='h5' align='center' vertical-align: 'middle'>
           Select category
           <FormControl variant="filled" className={classes.formControl}>
         <InputLabel id="demo-simple-select-filled-label">Category</InputLabel>
